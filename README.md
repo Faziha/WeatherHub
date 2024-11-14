@@ -1,4 +1,4 @@
-## WeatherHub 🌦️
+## Weather Application 🌦️
 A real-time weather application built with React, providing up-to-date weather information for cities worldwide(based on current location) using OpenWeather API.
 
 App themes can also be changed either to dark or bright mode.
@@ -32,9 +32,9 @@ git clone <repository-url>
 cd Weather-Application
 
 ### Install Dependencies
-- npm install
-- npm install semantic-ui-react semantic-ui-css
-- npm install moment --save
+npm install
+npm install semantic-ui-react semantic-ui-css
+npm install moment --save
 
 ### Run the Application
 npm start
